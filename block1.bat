@@ -1,0 +1,1 @@
+python "C:\Users\Ali\Documents\Projects\MS bot\block1.py"
